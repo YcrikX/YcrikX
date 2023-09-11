@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @YcrikX
+- 👀 I’m interested in Scripting Community
+- 🌱 I’m currently learning Scripting
